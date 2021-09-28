@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.allart.solana_wallet": "file:/Users/t2kin/Workspace/prototyping-arcadeland/unity-solana-wallet-main",
+    "com.allart.solana_wallet": "file:../../unity-solana-wallet-main",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.3.2",
     "com.unity.collab-proxy": "1.7.1",

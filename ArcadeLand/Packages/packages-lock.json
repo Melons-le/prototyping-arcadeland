@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.allart.solana_wallet": {
-      "version": "file:/Users/t2kin/Workspace/prototyping-arcadeland/unity-solana-wallet-main",
+      "version": "file:../../unity-solana-wallet-main",
       "depth": 0,
       "source": "local",
       "dependencies": {}
