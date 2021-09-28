@@ -1,0 +1,1 @@
+You can use this photoshop projects to create your own arcade machines skins

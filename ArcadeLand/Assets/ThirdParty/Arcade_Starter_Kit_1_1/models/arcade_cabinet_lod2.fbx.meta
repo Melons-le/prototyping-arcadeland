@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: f88c99beb0bf8b845a022380cc5754c6
+timeCreated: 1487217577
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: base
+    100004: base 1
+    100006: coin_door
+    100008: coin_return1
+    100010: coin_return2
+    100012: foot1
+    100014: foot2
+    100016: housing
+    100018: kick_guard
+    100020: knob
+    100022: knob 1
+    100024: lock1
+    100026: lock3
+    100028: main_color
+    100030: p1b18
+    100032: p1b19
+    100034: p1b20
+    100036: p1b21
+    100038: p1b22
+    100040: p1b23
+    100042: p1b24
+    100044: p1b25
+    100046: p1b26
+    100048: p1b27
+    100050: p1b28
+    100052: p1b9
+    100054: p1button_set
+    100056: p1joystick
+    100058: p1joystick2
+    100060: p1start
+    100062: p2button_set
+    100064: p2start
+    100066: plug_base
+    100068: screen
+    100070: shaft
+    100072: shaft 1
+    100074: speaker1
+    100076: speaker4
+    100078: wheel1
+    100080: wheel4
+    400000: //RootNode
+    400002: base
+    400004: base 1
+    400006: coin_door
+    400008: coin_return1
+    400010: coin_return2
+    400012: foot1
+    400014: foot2
+    400016: housing
+    400018: kick_guard
+    400020: knob
+    400022: knob 1
+    400024: lock1
+    400026: lock3
+    400028: main_color
+    400030: p1b18
+    400032: p1b19
+    400034: p1b20
+    400036: p1b21
+    400038: p1b22
+    400040: p1b23
+    400042: p1b24
+    400044: p1b25
+    400046: p1b26
+    400048: p1b27
+    400050: p1b28
+    400052: p1b9
+    400054: p1button_set
+    400056: p1joystick
+    400058: p1joystick2
+    400060: p1start
+    400062: p2button_set
+    400064: p2start
+    400066: plug_base
+    400068: screen
+    400070: shaft
+    400072: shaft 1
+    400074: speaker1
+    400076: speaker4
+    400078: wheel1
+    400080: wheel4
+    2300000: base
+    2300002: base 1
+    2300004: coin_door
+    2300006: coin_return1
+    2300008: coin_return2
+    2300010: foot1
+    2300012: foot2
+    2300014: housing
+    2300016: kick_guard
+    2300018: knob
+    2300020: knob 1
+    2300022: lock1
+    2300024: lock3
+    2300026: main_color
+    2300028: p1b18
+    2300030: p1b19
+    2300032: p1b20
+    2300034: p1b21
+    2300036: p1b22
+    2300038: p1b23
+    2300040: p1b24
+    2300042: p1b25
+    2300044: p1b26
+    2300046: p1b27
+    2300048: p1b28
+    2300050: p1b9
+    2300052: p1start
+    2300054: p2start
+    2300056: plug_base
+    2300058: screen
+    2300060: shaft
+    2300062: shaft 1
+    2300064: speaker1
+    2300066: speaker4
+    2300068: wheel1
+    2300070: wheel4
+    3300000: base
+    3300002: base 1
+    3300004: coin_door
+    3300006: coin_return1
+    3300008: coin_return2
+    3300010: foot1
+    3300012: foot2
+    3300014: housing
+    3300016: kick_guard
+    3300018: knob
+    3300020: knob 1
+    3300022: lock1
+    3300024: lock3
+    3300026: main_color
+    3300028: p1b18
+    3300030: p1b19
+    3300032: p1b20
+    3300034: p1b21
+    3300036: p1b22
+    3300038: p1b23
+    3300040: p1b24
+    3300042: p1b25
+    3300044: p1b26
+    3300046: p1b27
+    3300048: p1b28
+    3300050: p1b9
+    3300052: p1start
+    3300054: p2start
+    3300056: plug_base
+    3300058: screen
+    3300060: shaft
+    3300062: shaft 1
+    3300064: speaker1
+    3300066: speaker4
+    3300068: wheel1
+    3300070: wheel4
+    4300000: speaker1
+    4300002: plug_base
+    4300004: wheel1
+    4300006: lock1
+    4300008: coin_return1
+    4300010: coin_return2
+    4300012: coin_door
+    4300014: foot1
+    4300016: foot2
+    4300018: p1start
+    4300020: knob
+    4300022: shaft
+    4300024: base
+    4300026: p1b9
+    4300028: p1b18
+    4300030: p1b19
+    4300032: p1b20
+    4300034: p1b21
+    4300036: p1b22
+    4300038: p1b23
+    4300040: p1b24
+    4300042: p1b25
+    4300044: p1b26
+    4300046: p1b27
+    4300048: p1b28
+    4300050: knob
+    4300052: shaft
+    4300054: base
+    4300056: p2start
+    4300058: kick_guard
+    4300060: screen
+    4300062: housing
+    4300064: main_color
+    4300066: lock3
+    4300068: speaker4
+    4300070: wheel4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

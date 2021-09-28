@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!64 &-1954522707938089318
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6162949219297442072}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 301106979935927488, guid: 548d213c612940b46be73e3bb83878ed, type: 3}
+--- !u!1001 &4066784582358071264
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5668312885953363723, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 241747cae718aba449a7b893aa4e4e71, type: 2}
+    - target: {fileID: 7923853395876794104, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_Name
+      value: Plushie_Tanuki Variant_Blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183480992723903133, guid: 01b7e4400f14f1548b6b04a799692ae0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 01b7e4400f14f1548b6b04a799692ae0, type: 3}
+--- !u!1 &6162949219297442072 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7923853395876794104, guid: 01b7e4400f14f1548b6b04a799692ae0,
+    type: 3}
+  m_PrefabInstance: {fileID: 4066784582358071264}
+  m_PrefabAsset: {fileID: 0}

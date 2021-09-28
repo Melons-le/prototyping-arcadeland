@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 29aa74e1168f8c74197fa99de489c9e3
+timeCreated: 1483836352
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: can_coins_only
+    100004: caution_stripe
+    100006: do_not_tip
+    100008: electrical_warning
+    100010: empolyees_only
+    100012: golden_rules
+    100014: inspection_sticker
+    100016: lost_and_found
+    100018: no_food_or_drink
+    100020: no_smoking
+    100022: tokens_only
+    100024: us_coins_only
+    400000: //RootNode
+    400002: can_coins_only
+    400004: caution_stripe
+    400006: do_not_tip
+    400008: electrical_warning
+    400010: empolyees_only
+    400012: golden_rules
+    400014: inspection_sticker
+    400016: lost_and_found
+    400018: no_food_or_drink
+    400020: no_smoking
+    400022: tokens_only
+    400024: us_coins_only
+    2300000: can_coins_only
+    2300002: caution_stripe
+    2300004: do_not_tip
+    2300006: electrical_warning
+    2300008: empolyees_only
+    2300010: golden_rules
+    2300012: inspection_sticker
+    2300014: lost_and_found
+    2300016: no_food_or_drink
+    2300018: no_smoking
+    2300020: tokens_only
+    2300022: us_coins_only
+    3300000: can_coins_only
+    3300002: caution_stripe
+    3300004: do_not_tip
+    3300006: electrical_warning
+    3300008: empolyees_only
+    3300010: golden_rules
+    3300012: inspection_sticker
+    3300014: lost_and_found
+    3300016: no_food_or_drink
+    3300018: no_smoking
+    3300020: tokens_only
+    3300022: us_coins_only
+    4300000: no_smoking
+    4300002: no_food_or_drink
+    4300004: do_not_tip
+    4300006: caution_stripe
+    4300008: can_coins_only
+    4300010: golden_rules
+    4300012: inspection_sticker
+    4300014: lost_and_found
+    4300016: electrical_warning
+    4300018: tokens_only
+    4300020: empolyees_only
+    4300022: us_coins_only
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
