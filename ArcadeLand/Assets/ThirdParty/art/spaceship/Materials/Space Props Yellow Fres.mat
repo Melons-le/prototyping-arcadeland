@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Space Props Yellow Fres
+  m_Shader: {fileID: -6465566751694194690, guid: 3495da6e025b6934dbecbbcea7170157,
+    type: 3}
+  m_ShaderKeywords: _EMISSION _METALLICSPECGLOSSMAP
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Color1:
+        m_Texture: {fileID: 2800000, guid: 9d9d7e2208a773e48b391baa034e79ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Emissive:
+        m_Texture: {fileID: 2800000, guid: a0638b4a2926eb347895f5af0e053c7b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - MetallicOcclusionSmoothness:
+        m_Texture: {fileID: 2800000, guid: 838f4b223ea70fe4bae8bcbd7e7e05b7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Emission_Power: 8
+    - Fresnel_Size: 2.32
+    m_Colors:
+    - Fresnel_Color: {r: 1.7169812, g: 1.1376793, b: 0.33205765, a: 0}
+--- !u!114 &4641337225992018019
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
