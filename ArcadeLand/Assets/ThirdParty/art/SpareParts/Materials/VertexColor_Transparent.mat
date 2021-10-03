@@ -8,9 +8,9 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: VertexColor_Transparent
-  m_Shader: {fileID: 4800000, guid: 714d6976b449d494b89c2b1bf048d8a4, type: 3}
+  m_Shader: {fileID: 4800000, guid: c6f7d9969ce59924aa10e9629ecd5d36, type: 3}
   m_ShaderKeywords: _ALPHABLEND_ON _GLOSSYREFLECTIONS_OFF _SPECULARHIGHLIGHTS_OFF
-  m_LightmapFlags: 0
+  m_LightmapFlags: 1
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -114,20 +114,28 @@ Material:
     - _UVSec: 0
     - _ZWrite: 0
     - __dirty: 0
+    - _alphaFalloff: 1.25
     - _alphaFromGrayscaleThreshold: 2
+    - _billboarding: 0
     - _brightnessFalloff: 2
-    - _brightnessMaximum: 0
+    - _brightnessMaximum: 32
     - _brightnessMinimum: 0
     - _clipping: 0.5
     - _clippingThreshold: 1
     - _cutoutThreshold: 0.5
+    - _falloffIntensity: 1
     - _metalness: 0
+    - _offsetX: 0
+    - _offsetY: -0.5
+    - _proceduralTextureFalloff: 2
     - _smoothness: 0
     - _softness: 0.0125
     - _softnessDistance: 0.15
     - _softnessLength: 1
     - _softnessOffset: 0
     - _softnessRange: 0.05
+    - _tilingX: 0
+    - _tilingY: 1
     m_Colors:
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
     - _Color: {r: 1.866066, g: 1.866066, b: 1.866066, a: 1}
