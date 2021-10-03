@@ -8,9 +8,9 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: VertexColor_Transparent
-  m_Shader: {fileID: 4800000, guid: c6f7d9969ce59924aa10e9629ecd5d36, type: 3}
+  m_Shader: {fileID: 4800000, guid: 8d2458b5c71376c4dbdee3bab27872fd, type: 3}
   m_ShaderKeywords: _ALPHABLEND_ON _GLOSSYREFLECTIONS_OFF _SPECULARHIGHLIGHTS_OFF
-  m_LightmapFlags: 1
+  m_LightmapFlags: 0
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -114,28 +114,15 @@ Material:
     - _UVSec: 0
     - _ZWrite: 0
     - __dirty: 0
-    - _alphaFalloff: 1.25
-    - _alphaFromGrayscaleThreshold: 2
-    - _billboarding: 0
-    - _brightnessFalloff: 2
-    - _brightnessMaximum: 32
-    - _brightnessMinimum: 0
     - _clipping: 0.5
     - _clippingThreshold: 1
     - _cutoutThreshold: 0.5
-    - _falloffIntensity: 1
     - _metalness: 0
-    - _offsetX: 0
-    - _offsetY: -0.5
-    - _proceduralTextureFalloff: 2
     - _smoothness: 0
     - _softness: 0.0125
-    - _softnessDistance: 0.15
     - _softnessLength: 1
     - _softnessOffset: 0
-    - _softnessRange: 0.05
-    - _tilingX: 0
-    - _tilingY: 1
+    - _softnessRange: 0.5
     m_Colors:
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
     - _Color: {r: 1.866066, g: 1.866066, b: 1.866066, a: 1}
@@ -143,7 +130,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _colorAlbedo: {r: 1, g: 1, b: 1, a: 1}
-    - _colorEmisison: {r: 1, g: 1, b: 1, a: 1}
-    - _colorEmission: {r: 1, g: 1, b: 1, a: 1}
+    - _colorEmisison: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 1}
+    - _colorEmission: {r: 1.0592737, g: 1.0592737, b: 1.0592737, a: 1}
     - _colorEmission1: {r: 1.059274, g: 1.059274, b: 1.059274, a: 1}
     - _softnessRange: {r: -16, g: 16, b: 0, a: 0}
