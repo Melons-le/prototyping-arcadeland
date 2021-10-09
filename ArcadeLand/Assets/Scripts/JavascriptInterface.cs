@@ -24,11 +24,11 @@ public class JavascriptInterface : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (UnityEngine.Input.GetKey(KeyCode.O))
+        if (UnityEngine.Input.GetKeyDown(KeyCode.O))
         {
             WalletAddrText.text = Init();
         }
-        else if (UnityEngine.Input.GetKey(KeyCode.P))
+        else if (UnityEngine.Input.GetKeyDown(KeyCode.P))
         {
             SendTransaction();
         }
