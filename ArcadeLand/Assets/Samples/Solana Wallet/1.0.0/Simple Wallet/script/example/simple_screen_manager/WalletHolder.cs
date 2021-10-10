@@ -16,4 +16,12 @@ public class WalletHolder : MonoBehaviour
         });        
     }
 
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.M))
+        {
+            wallet.SetActive(!wallet.activeSelf);
+            Cursor.lockState = wallet.activeSelf ? CursorLockMode.None : CursorLockMode.Locked;
+        }
+    }
 }

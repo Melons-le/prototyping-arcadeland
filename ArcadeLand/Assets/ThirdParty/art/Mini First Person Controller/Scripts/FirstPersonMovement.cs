@@ -15,7 +15,7 @@ public class FirstPersonMovement : MonoBehaviour
     /// <summary> Functions to override movement speed. Will use the last added override. </summary>
     public List<System.Func<float>> speedOverrides = new List<System.Func<float>>();
 
-
+    public Animator avatarAnim;
 
     void Awake()
     {
@@ -23,6 +23,7 @@ public class FirstPersonMovement : MonoBehaviour
         rigidbody = GetComponent<Rigidbody>();
     }
 
+    private bool playingRunState = false;
     void FixedUpdate()
     {
         // Update IsRunning from input.
@@ -40,5 +41,21 @@ public class FirstPersonMovement : MonoBehaviour
 
         // Apply movement.
         rigidbody.velocity = transform.rotation * new Vector3(targetVelocity.x, rigidbody.velocity.y, targetVelocity.y);
+
+
+        if (targetVelocity.magnitude > 0)
+        {
+            avatarAnim.transform.forward = transform.rotation * new Vector3(targetVelocity.x, rigidbody.velocity.y, targetVelocity.y);
+            if (!playingRunState)
+            {
+                playingRunState = true;
+                avatarAnim.CrossFade("Run", 0.1f);
+            }
+        }
+        else if (playingRunState)
+        {
+            playingRunState = false;
+            avatarAnim.CrossFade("Idle", 0.1f);
+        }
     }
 }
